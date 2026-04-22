@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.cache
+Content/obj/
+Content/bin/
+*.xnb
+runtimes/
+*.dll
+*.pdb
+cmake-build-debug/
+*.exe
+.DS_Store
